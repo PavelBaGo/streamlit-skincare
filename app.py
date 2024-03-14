@@ -6,7 +6,7 @@ import numpy as np
 from io import StringIO
 import json
 
-API_URL=''
+API_URL='https://skincareapi-xh5jtv2g5q-ew.a.run.app/'
 
 def set_background_color(color):
     hex_color = f"#{color}"
